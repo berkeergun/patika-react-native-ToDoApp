@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Köpek gezdirilecek",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "name": "Alışveriş yapılacak",
+      "isDone": true
+    },
+    {
+      "id": 3,
+      "name": "Çamaşır asılacak",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "name": "Bulaşık yıkanacak",
+      "isDone": true
+    },
+    {
+      "id": 5,
+      "name": "Ders çalışılacak",
+      "isDone": true
+    },
+    {
+      "id": 6,
+      "name": "Konsere gidilecek",
+      "isDone": false
+    },
+    {
+      "id": 7,
+      "name": "Spora gidilecek",
+      "isDone": false
+    },
+    {
+      "id": 8,
+      "name": "React Native öğrenilecek...",
+      "isDone": false
+    }
+
+  ]
