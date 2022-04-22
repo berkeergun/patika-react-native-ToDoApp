@@ -1,4 +1,4 @@
-# Patika Store
+# To Do App
 ![1](./images/1.png)
 
 ## <font color="orange">Device</font> => <font color="yellow"> Pixel 3a</font>
